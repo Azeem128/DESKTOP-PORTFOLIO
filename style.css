@@ -249,9 +249,6 @@ h6 {
     transform: scale(1.05); /* Slightly increase the size */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a shadow for depth */
   }
-  
-
-
 
 .self-container {
   background: white;
@@ -328,7 +325,6 @@ h6 {
     }
   }
   
-
 .form-title {
   font-size: 32px;
   font-family: "Poppins", sans-serif;
